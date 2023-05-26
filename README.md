@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Dagrea
-- 👀 I’m interested in React.js
-- 🌱 I’m currently learning related technologies 
+- 👋 Hi, My name is Alexandr Zhuravliov
+- 🌍 I'm based in Ternopil, Ukraine
+- 🧳 Ready to relocate
+- 👀 Interested in React.js
+- 🌱 Currently learning related technologies 
+- 🤝 Open to collaborating on interesting projects as a developer
 - 📫 How to reach me: email: dagonsha@gmail.com telegram: FDagon
-
