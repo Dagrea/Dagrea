@@ -4,4 +4,4 @@
 - 👀 Interested in React.js
 - 🌱 Currently learning related technologies 
 - 🤝 Open to collaborating on interesting projects as a developer
-- 📫 How to reach me: email: dagonsha@gmail.com telegram: FDagon
+- 📫 How to reach me: email: oszhuravliov@gmail.com telegram: FDagon
